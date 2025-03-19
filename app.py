@@ -231,6 +231,6 @@ with tab2:
 # Footer
 st.markdown("""
 <div class="footer">
-    <p>Secure Password Manager v1.0 | Stay Safe Online | <a href="https://github.com/SitesByKashan">Made By Kashan Malik Awan</a> </p>
+    <p>Secure Password Manager v1.0 | Stay Safe Online | <a href="https://github.com/SitesByKashan">Made By M Kashan Malik Awan</a> </p>
 </div>
 """, unsafe_allow_html=True)
